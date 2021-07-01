@@ -1,0 +1,7 @@
+mkdir jenia-shibkova
+bin
+etc
+lib
+libexec
+share
+ssl
