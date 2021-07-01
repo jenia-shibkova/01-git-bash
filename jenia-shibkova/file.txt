@@ -1,8 +1,4 @@
-mkdir jenia-shibkova
-bin
-etc
-lib
-libexec
-share
-ssl
+touch file.txt
+bin etc lib libexec share ssl
+Karina
 Eugenia Shibkova
